@@ -1,1 +1,6 @@
+The data was generated targeting the  V3-V4 region of the 16S rRNA gene. 
 
+primers: 
+for: TCGTCGGCAGCGTCAGATGTGTATAAGAGACAGCCTACGGGnGGCWGCAG, rev: GTCTCGTGGGCTCGGAGATGTGTATAAGAGACAGGACTACHVGGGTATCTAATCC
+
+plattform: Illumina MiSeq
