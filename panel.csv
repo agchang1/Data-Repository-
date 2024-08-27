@@ -1,10 +1,11 @@
 marker;panel;target;clone;vendor;label
+Hoechst 33342;both panel; DNA;;Thermo Fisher Scientific Cat. No. 62249; Hoechst 33342
 anti-human IgA 1;immunoglobulin;human IgA1;B3506B4;Southern Biotech Cat. No. 9130-31;Alexa647
 anti-human IgA 2;immunoglobulin;human IgA2;A9604D2;Southern Biotech Cat. No. 9140-30;Alexa488
-anti-human IgG;immunoglobulin;human IgG;HP6017;Biolegend® Cat. No. 409324;PE-Dazzle
-anti-human IgM;immunoglobulin;human IgM;MHM-88;Biolegend® Cat. No. 314526;BV650
-ConA;lectin;Mannose;;Biotium Cat. No. 29020-1;CF®680 
-PNA;lectin;Galactose;;Biotium Cat. No.29060;CF®488 
+anti-human IgG;immunoglobulin;human IgG;HP6017;BiolegendÂ® Cat. No. 409324;PE-Dazzle
+anti-human IgM;immunoglobulin;human IgM;MHM-88;BiolegendÂ® Cat. No. 314526;BV650
+ConA;lectin;Mannose;;Biotium Cat. No. 29020-1;CFÂ®680 
+PNA;lectin;Galactose;;Biotium Cat. No.29060;CFÂ®488 
 STL;lectin;N-Acetyl-Glucoseamine;;Vector Laboratories/Biozol Cat. No. B-1165 ;Biotin
-WGA;lectin;N-Acetyl-Glucoseamine;;Biotium Cat. No.29076-1;-CF®555 
+WGA;lectin;N-Acetyl-Glucoseamine;;Biotium Cat. No.29076-1;-CFÂ®555 
 anit-Biotin;Lectin;biotin-STL;Bio3-18E7;Miltenyi Biotech Cat. No. 130-133-293;PerCP
