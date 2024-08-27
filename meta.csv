@@ -1,0 +1,150 @@
+sample ID;cohort_location;cohort_ident;cohort_disease;therapy ;sex ;age
+IBD001;Germany, Berlin ;CD cohort 1;CD;immune system supression;m;70
+IBD005;Germany, Berlin ;CD cohort 1;CD;anti-IL12/23;f;46
+IBD006;Germany, Berlin ;CD cohort 1;CD;none;m;56
+IBD007;Germany, Berlin ;CD cohort 1;CD;anti-IL12/23;m;51
+IBD009;Germany, Berlin ;CD cohort 1;CD;anti-TNF;m;41
+IBD010;Germany, Berlin ;CD cohort 1;CD;anti-TNF;m;47
+IBD021;Germany, Berlin ;CD cohort 1;CD;symptomatik therapy;f;29
+IBD022;Germany, Berlin ;CD cohort 1;CD;none;f;76
+IBD024;Germany, Berlin ;CD cohort 1;CD;anti-TNF;m;33
+IBD035;Germany, Berlin ;CD cohort 1;CD;anti-IL12/23;f;59
+IBD037;Germany, Berlin ;CD cohort 1;CD;immune system supression;m;30
+IBD038;Germany, Berlin ;CD cohort 1;CD;anti-TNF;f;28
+IBD039;Germany, Berlin ;CD cohort 1;CD;immune system supression;f;62
+IBD040;Germany, Berlin ;CD cohort 1;CD;anti-IL12/23;f;29
+IBD042;Germany, Berlin ;CD cohort 1;CD;anti-IL12/23;m;73
+IBD043;Germany, Berlin ;CD cohort 1;CD;anti-IL12/23;f;36
+IBD044;Germany, Berlin ;CD cohort 1;CD;none;f;62
+IBD046;Germany, Berlin ;CD cohort 1;CD;anti-IL12/23;f;32
+IBD047;Germany, Berlin ;CD cohort 1;CD;anti-IL12/23;m;35
+IBD051;Germany, Berlin ;CD cohort 1;CD;immune system supression;f;33
+IBD052;Germany, Berlin ;CD cohort 1;CD;anti-TNF;m;48
+IBD053;Germany, Berlin ;CD cohort 1;CD;anti-alpha4beta7;f;44
+IBD054;Germany, Berlin ;CD cohort 1;CD;none;f;46
+IBD055;Germany, Berlin ;CD cohort 1;CD;anti-TNF;f;40
+IBD058;Germany, Berlin ;CD cohort 1;CD;anti-TNF;m;33
+IBD059;Germany, Berlin ;CD cohort 1;CD;anti-alpha4beta7;m;26
+IBD060;Germany, Berlin ;CD cohort 1;CD;none;m;24
+IBD063;Germany, Berlin ;CD cohort 1;CD;anti-TNF;f;37
+IBD064;Germany, Berlin ;CD cohort 1;CD;anti-TNF;m;54
+IBD065;Germany, Berlin ;CD cohort 1;CD;anti-TNF;f;32
+IBD067;Germany, Berlin ;CD cohort 1;CD;anti-TNF;f;42
+IBD068;Germany, Berlin ;CD cohort 1;CD;anti-TNF;f;33
+IBD073;Germany, Berlin ;CD cohort 1;CD;anti-TNF;f;43
+IBD074;Germany, Berlin ;CD cohort 1;CD;anti-TNF;f;44
+IBD075;Germany, Berlin ;CD cohort 1;CD;immune system supression;f;31
+IBD078;Germany, Berlin ;CD cohort 1;CD;anti-IL12/23;m;33
+IBD080;Germany, Berlin ;CD cohort 1;CD;anti-TNF;m;57
+IBD082;Germany, Berlin ;CD cohort 1;CD;anti-TNF;f;52
+IBD084;Germany, Berlin ;CD cohort 1;CD;anti-TNF;m;27
+IBD086;Germany, Berlin ;CD cohort 1;CD;none;m;41
+IBD087;Germany, Berlin ;CD cohort 1;CD;anti-alpha4beta7;m;70
+IBD088;Germany, Berlin ;CD cohort 1;CD;anti-IL12/23;f;36
+IBD089;Germany, Berlin ;CD cohort 1;CD;anti-TNF;f;23
+IBD090;Germany, Berlin ;CD cohort 1;CD;immune system supression;m;45
+IBD091;Germany, Berlin ;CD cohort 1;CD;none;f;38
+IBD093;Germany, Berlin ;CD cohort 1;CD;anti-TNF;m;26
+IBD095;Germany, Berlin ;CD cohort 1;CD;immune system supression;f;45
+IBD097;Germany, Berlin ;CD cohort 1;CD;immune system supression;m;57
+IBD102;Germany, Berlin ;CD cohort 1;CD;immune system supression;f;50
+IBD103;Germany, Berlin ;CD cohort 1;CD;none;f;27
+IBD110;Germany, Berlin ;CD cohort 1;CD;anti-IL12/23;f;53
+IBD113;Germany, Berlin ;CD cohort 1;CD;none;m;31
+IBD114;Germany, Berlin ;CD cohort 1;CD;none;NA;NA
+IBD118;Germany, Berlin ;CD cohort 1;CD;anti-TNF;m;49
+IBD121;Germany, Berlin ;CD cohort 1;CD;immune system supression;f;32
+IBD126;Germany, Berlin ;CD cohort 1;CD;anti-TNF;m;50
+PD002;Germany, Berlin ;controls;control;none;m;30
+PD003;Germany, Berlin ;controls;control;none;f;28
+PD004;Germany, Berlin ;controls;control;none;f;44
+PD005;Germany, Berlin ;controls;control;none;m;36
+PD006;Germany, Berlin ;controls;control;none;f;27
+PD008;Germany, Berlin ;controls;control;none;m;41
+PD009;Germany, Berlin ;controls;control;none;f;53
+PD011;Germany, Berlin ;controls;control;none;f;25
+PD022;Germany, Berlin ;controls;control;none;m;23
+PD026;Germany, Berlin ;controls;control;none;f;25
+PD033;Germany, Berlin ;controls;control;none;m;29
+PD035;Germany, Berlin ;controls;control;none;m;28
+PD039;Germany, Berlin ;controls;control;none;m;49
+PD044;Germany, Berlin ;controls;control;none;m;28
+PD047;Germany, Berlin ;controls;control;none;f;30
+PD062;Germany, Berlin ;controls;control;none;m;29
+PD065;Germany, Berlin ;controls;control;none;m;38
+PD066;Germany, Berlin ;controls;control;none;f;25
+PD068;Germany, Berlin ;controls;control;none;m;27
+PD069;Germany, Berlin ;controls;control;none;m;74
+PD070;Germany, Berlin ;controls;control;none;f;39
+PD071;Germany, Berlin ;controls;control;none;f;33
+PD072;Germany, Berlin ;controls;control;none;m;37
+PD073;Germany, Berlin ;controls;control;none;f;29
+PD074;Germany, Berlin ;controls;control;none;f;60
+PD075;Germany, Berlin ;controls;control;none;f;45
+PD076;Germany, Berlin ;controls;control;none;f;53
+PD077;Germany, Berlin ;controls;control;none;f;39
+PD078;Germany, Berlin ;controls;control;none;f;37
+PD079;Germany, Berlin ;controls;control;none;f;36
+PD080;Germany, Berlin ;controls;control;none;m;56
+PD081;Germany, Berlin ;controls;control;none;f;48
+PD082;Germany, Berlin ;controls;control;none;f;37
+PD083;Germany, Berlin ;controls;control;none;m;30
+PD090;Germany, Berlin ;controls;control;none;f;70
+PD091;Germany, Berlin ;controls;control;none;f;53
+PD092;Germany, Berlin ;controls;control;none;f;66
+PD093;Germany, Berlin ;controls;control;none;f;69
+PD094;Germany, Berlin ;controls;control;none;f;52
+PD096;Germany, Berlin ;controls;control;none;f;52
+PD097;Germany, Berlin ;controls;control;none;f;46
+PD098;Germany, Berlin ;controls;control;none;f;72
+PD099;Germany, Berlin ;controls;control;none;m;55
+PD100;Germany, Berlin ;controls;control;none;f;54
+PD101;Germany, Berlin ;controls;control;none;f;60
+PD106;Germany, Berlin ;controls;control;none;f;56
+PD107;Germany, Berlin ;controls;control;none;f;82
+PD110;Germany, Berlin ;controls;control;none;m;83
+PD116;Germany, Berlin ;controls;control;none;f;53
+PD118;Germany, Berlin ;controls;control;none;f;52
+PD119;Germany, Berlin ;controls;control;none;f;84
+PD120;Germany, Berlin ;controls;control;none;m;83
+PD121;Germany, Berlin ;controls;control;none;m;45
+PD122;Germany, Berlin ;controls;control;none;m;33
+PD123;Germany, Berlin ;controls;control;none;m;60
+pTNF001-0;Germany, Berlin ;CD cohort 2, baseline;CD;naive;m;42
+pTNF001-6;Germany, Berlin ;CD cohort 2, in anti-TNF therapy;CD;anti-TNF;m;42
+pTNF002-0;Germany, Berlin ;CD cohort 2, baseline;CD;naive;m;63
+pTNF002-6;Germany, Berlin ;CD cohort 2, in anti-TNF therapy;CD;anti-TNF;m;63
+pTNF003-0;Germany, Berlin ;CD cohort 2, baseline;CD;naive;f;23
+pTNF003-6;Germany, Berlin ;CD cohort 2, in anti-TNF therapy;CD;anti-TNF;f;23
+pTNF004-0;Germany, Berlin ;CD cohort 2, baseline;CD;naive;f;34
+pTNF004-6;Germany, Berlin ;CD cohort 2, in anti-TNF therapy;CD;anti-TNF;f;34
+pTNF005-0;Germany, Berlin ;CD cohort 2, baseline;CD;naive;m;26
+pTNF005-6;Germany, Berlin ;CD cohort 2, in anti-TNF therapy;CD;anti-TNF;m;26
+pTNF006-0;Germany, Berlin ;CD cohort 2, baseline;CD;naive;m;35
+pTNF006-6;Germany, Berlin ;CD cohort 2, in anti-TNF therapy;CD;anti-TNF;m;35
+pTNF007-0;Germany, Berlin ;CD cohort 2, baseline;CD;naive;m;28
+pTNF007-6;Germany, Berlin ;CD cohort 2, in anti-TNF therapy;CD;anti-TNF;m;28
+pTNF008-0;Germany, Berlin ;CD cohort 2, baseline;CD;naive;f;44
+pTNF008-6;Germany, Berlin ;CD cohort 2, in anti-TNF therapy;CD;anti-TNF;f;44
+pTNF009-0;Germany, Berlin ;CD cohort 2, baseline;CD;naive;f;51
+pTNF009-6;Germany, Berlin ;CD cohort 2, in anti-TNF therapy;CD;anti-TNF;f;51
+pTNF010-0;Germany, Berlin ;CD cohort 2, baseline;CD;naive;f;55
+pTNF010-6;Germany, Berlin ;CD cohort 2, in anti-TNF therapy;CD;anti-TNF;f;55
+pTNF011-0;Germany, Berlin ;CD cohort 2, baseline;CD;naive;f;29
+pTNF011-6;Germany, Berlin ;CD cohort 2, in anti-TNF therapy;CD;anti-TNF;f;29
+pTNF012-0;Germany, Berlin ;CD cohort 2, baseline;CD;naive;m;33
+pTNF012-6;Germany, Berlin ;CD cohort 2, in anti-TNF therapy;CD;anti-TNF;m;33
+pTNF013-0;Germany, Berlin ;CD cohort 2, baseline;CD;naive;m;32
+pTNF013-6;Germany, Berlin ;CD cohort 2, in anti-TNF therapy;CD;anti-TNF;m;32
+pTNF014-0;Germany, Berlin ;CD cohort 2, baseline;CD;naive;m;33
+pTNF014-6;Germany, Berlin ;CD cohort 2, in anti-TNF therapy;CD;anti-TNF;m;33
+pTNF015-0;Germany, Berlin ;CD cohort 2, baseline;CD;naive;m;43
+pTNF015-6;Germany, Berlin ;CD cohort 2, in anti-TNF therapy;CD;anti-TNF;m;43
+pTNF016-0;Germany, Berlin ;CD cohort 2, baseline;CD;naive;f;38
+pTNF016-6;Germany, Berlin ;CD cohort 2, in anti-TNF therapy;CD;anti-TNF;f;38
+pTNF017-0;Germany, Berlin ;CD cohort 2, baseline;CD;naive;m;55
+pTNF017-6;Germany, Berlin ;CD cohort 2, in anti-TNF therapy;CD;anti-TNF;m;55
+pTNF018-0;Germany, Berlin ;CD cohort 2, baseline;CD;naive;m;51
+pTNF018-6;Germany, Berlin ;CD cohort 2, in anti-TNF therapy;CD;anti-TNF;m;51
+pTNF019-0;Germany, Berlin ;CD cohort 2, baseline;CD;naive;m;26
+pTNF019-6;Germany, Berlin ;CD cohort 2, in anti-TNF therapy;CD;anti-TNF;m;26
